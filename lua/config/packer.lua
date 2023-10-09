@@ -42,4 +42,6 @@ return require('packer').startup(function(use)
 	  }
   }
 
+  use('ray-x/go.nvim')
+
 end)
